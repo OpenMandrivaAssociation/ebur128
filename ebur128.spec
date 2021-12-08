@@ -4,8 +4,8 @@
 %define devname %mklibname %{name} -d
 
 Name:           ebur128
-Version:        1.2.4
-Release:        1
+Version:	1.2.6
+Release:	1
 Summary:        A library implementing the EBU R128 loudness standard
 License:        MIT
 Group:          System/Libraries
