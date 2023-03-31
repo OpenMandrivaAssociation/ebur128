@@ -5,7 +5,7 @@
 
 Name:           ebur128
 Version:	1.2.6
-Release:	1
+Release:	2
 Summary:        A library implementing the EBU R128 loudness standard
 License:        MIT
 Group:          System/Libraries
